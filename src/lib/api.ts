@@ -1,6 +1,6 @@
 import type { Patient, PatientCreateDto, PatientUpdateDto } from './types';
 
-const BASE = 'https://localhost:7190';
+const BASE = 'https://patientscanapi.reimnop.com';
 
 function isNetworkError(msg: string) {
 	return ['fetch', 'network', 'Failed', 'CORS', 'Load'].some(k => msg.includes(k));
