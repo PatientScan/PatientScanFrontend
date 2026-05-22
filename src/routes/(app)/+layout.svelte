@@ -26,7 +26,7 @@
 				<span class="border border-emerald-400 block"></span>
 			</div>
 			<h1 class="text-xl font-bold tracking-tight text-white" style="font-family:'Syne',sans-serif;">
-				Patient<em class="text-emerald-400 font-light not-italic" style="font-family:'Instrument Serif',serif;">Scan</em>
+				Health<em class="text-emerald-400 font-light not-italic" style="font-family:'Instrument Serif',serif;">Flow</em>
 			</h1>
 		</a>
 		<p class="text-[10px] text-[var(--dim)] tracking-[4px] uppercase pl-10 mb-6">

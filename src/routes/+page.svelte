@@ -1,4 +1,4 @@
-<svelte:head><title>PatientScan — Patient Identification System</title></svelte:head>
+<svelte:head><title>HealthFlow — Patient Identification System</title></svelte:head>
 
 <div class="relative z-10 min-h-screen flex flex-col items-center justify-center px-6 py-20">
 
@@ -11,7 +11,7 @@
 			<span class="border border-emerald-400 block"></span>
 		</div>
 		<h1 class="text-4xl font-bold tracking-tight text-white" style="font-family:'Syne',sans-serif;">
-			Patient<em class="text-emerald-400 font-light not-italic" style="font-family:'Instrument Serif',serif;">Scan</em>
+			Health<em class="text-emerald-400 font-light not-italic" style="font-family:'Instrument Serif',serif;">Flow</em>
 		</h1>
 	</div>
 
